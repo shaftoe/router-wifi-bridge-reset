@@ -1,6 +1,6 @@
 # Automate Router WiFi bridge setup with Raspberry Pi, NodeJS, Puppeteer and Ansible
 
-One very annoying problem I face with this setup is that every single time there's a power outage and the router reboots, or for whatever reason the Wifi bridge is broken, the router doesn't automatically reconnect to the source WiFi. It might sounds infrequent to you if you're used to live in developed countries but for example in east Africa where I've been living the last years, power outages are quite common even in the main urban areas.
+I own an old unbranded ADSL/LTE WiFi router which does the job but has a very annoying bug: every single time there's a power outage and the router reboots, or for whatever other reason I don't know about, the Wifi bridge (i.e. connection to another source WiFi network) is broken but the router doesn't automatically reconnect to the source WiFi.
 
 In order to fix this I have to manually log into the (crappy) router admin interface from my laptop's browser, find the right admin web page from the unintuitive navigation bar, perform a few selects and clicks, retype the source WiFi password and, finally, click to apply and persist the configuration.
 
