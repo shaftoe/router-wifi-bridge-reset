@@ -13,5 +13,7 @@ You can find a more detailed description in the [blog post][post].
 - macOS: tested on my MacBook Air running NodeJS *v13.13.0* and `puppeteer-core` *v3.0.0*
 - Linux: tested on my Raspberry Pi `armv6l` architecture, NodeJS *v11.15.0* and `puppeteer-core` *v3.0.0*
 
+Here the [Ansible tasks](ansible-tasks.yml) I use to deploy the solution on my Raspberry Pi
+
 [puppeteer]: <https://pptr.dev/#?show=api-puppeteer-vs-puppeteer-core>
 [post]: <https://FIXME>
