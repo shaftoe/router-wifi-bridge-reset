@@ -16,4 +16,4 @@ You can find a more detailed description in the [blog post][post].
 Here the [Ansible tasks](ansible-tasks.yml) I use to deploy the solution on my Raspberry Pi
 
 [puppeteer]: <https://pptr.dev/#?show=api-puppeteer-vs-puppeteer-core>
-[post]: < https://a.l3x.in/2020/04/27/fix-router-with-raspberry-node-puppeteer.html>
+[post]: <https://a.l3x.in/2020/04/27/fix-router-with-raspberry-node-puppeteer.html>

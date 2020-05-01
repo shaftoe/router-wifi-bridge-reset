@@ -1,4 +1,6 @@
 'use strict';
+console.log("Starting router-fix process");
+
 const puppeteer = require('puppeteer-core');
 const PASSWORDS = require('./passwords.json');
 const TIMEOUT_IN_MILLISECONDS = 90 * 1000;
